@@ -23,7 +23,7 @@ object Main{
     } else{
       println("Numero de parámetros correcto")
     }
-
+    println("Nuevo cambio de git")
     val inputDate::Nil = args.toList // Equivale a:  val date = args(0)
 
 //    val odate = yyyymkmddDateToDashed(inputDate)
