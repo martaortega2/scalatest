@@ -1,0 +1,36 @@
+"usuarios" que contiene información sobre los usuarios de un sitio web con los siguientes campos:
+
+usuario_id: ID del usuario.
+nombre: nombre del usuario.
+fecha_registro: fecha de registro del usuario en formato "yyyy-MM-dd".
+pais: país del usuario.
+
+"compras" que contiene información sobre las compras realizadas por los usuarios con los siguientes campos:
+
+compra_id: ID de la compra.
+usuario_id: ID del usuario que realizó la compra.
+fecha_compra: fecha de la compra en formato "yyyy-MM-dd".
+monto: monto total de la compra.
+
+"productos" que contiene información sobre los productos disponibles en el sitio web con los siguientes campos:
+
+producto_id: ID del producto.
+nombre: nombre del producto.
+precio: precio unitario del producto.
+
+"envios" que contiene información sobre los envíos realizados de las compras con los siguientes campos:
+
+envio_id: ID del envío.
+compra_id: ID de la compra asociada al envío.
+fecha_envio: fecha de envío en formato "yyyy-MM-dd".
+estado: estado actual del envío.
+
+Tu objetivo es realizar un análisis completo de las compras y envíos para obtener las siguientes métricas:
+
+Total de compras realizadas por país y mes.
+Monto promedio de las compras por usuario y país.
+Número de compras realizadas por usuario en un país determinado.
+Total de envíos realizados por estado y mes.
+Monto total de las compras que han sido enviadas y están en estado "Entregado".
+Productos más vendidos por mes, mostrando el nombre del producto y la cantidad total vendida.
+Total de envíos realizados por cada usuario.

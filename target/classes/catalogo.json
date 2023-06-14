@@ -1,0 +1,26 @@
+{
+	"table":[{
+		"name":"catalogo",
+		"fields":[{
+			"name":"nombre_campo",
+			"format":"varchar2",
+			"scale":"0",
+			"length":"30"
+		}, {
+			"name":"cod_catalogo",
+			"format":"varchar2",
+			"scale":"0",
+			"length":"30"
+		}, {
+			"name":"descripcion",
+			"format":"varchar2",
+			"scale":"0",
+			"length":"200"
+		}, {
+			"name":"idioma",
+			"format":"varchar2",
+			"scale":"0",
+			"length":"3"
+		}]
+	}]
+}

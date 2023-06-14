@@ -1,0 +1,36 @@
+fecha,cliente,producto,cantidad,precio_unitario
+02/05/2022,Andrea López,iPhone 12,1,1200
+03/05/2022,Pablo González,Samsung Galaxy S21,2,1000
+05/05/2022,María Fernández,iPad Pro,1,1200
+06/05/2022,Luis García,MacBook Pro,1,2000
+08/05/2022,Ana Martínez,Apple Watch Series 6,2,500
+09/05/2022,Carlos Pérez,Microsoft Surface Laptop 4,1,1500
+10/05/2022,Sofía Sánchez,HP Spectre x360,1,1200
+11/05/2022,Javier Ruiz,Dell XPS 13,2,1300
+12/05/2022,Lucía Ortiz,Lenovo Yoga C940,1,1100
+14/05/2022,Diego Gómez,Google Pixel 5,1,800
+15/05/2022,Marta Torres,Sony PlayStation 5,1,500
+17/05/2022,Raquel García,Xbox Series X,1,550
+18/05/2022,Santiago Fernández,Nintendo Switch,2,400
+19/05/2022,Paula Jiménez,Amazon Echo Dot,3,50
+20/05/2022,Jorge Díaz,Google Nest Hub,1,100
+22/05/2022,Lorena Pérez,Samsung Galaxy Watch 4,1,300
+23/05/2022,Manuel Gutiérrez,Bose QuietComfort Earbuds,1,200
+24/05/2022,Carmen Ruiz,JBL Flip 5,2,100
+25/05/2022,Isabel Moreno,Apple AirPods Pro,3,250
+27/05/2022,Alberto Torres,Samsung Galaxy Buds Pro,1,200
+28/05/2022,Julia López,Philips Hue Starter Kit,1,150
+30/05/2022,Fernando García,Sony WF-1000XM4,2,250
+31/05/2022,Andrea López,Dell Inspiron 14,1,800
+02/05/2022,Pablo González,iPad Pro,1,1200
+03/05/2022,María Fernández,MacBook Pro,1,2000
+05/05/2022,Luis García,Apple Watch Series 6,2,500
+06/05/2022,Ana Martínez,Microsoft Surface Laptop 4,1,1500
+08/05/2022,Carlos Pérez,HP Spectre x360,1,1200
+09/05/2022,Sofía Sánchez,Dell XPS 13,2,1300
+10/05/2022,Javier Ruiz,Lenovo Yoga C940,1,1100
+11/05/2022,Lucía Ortiz,Google Pixel 5,1,800
+12/05/2022,Diego Gómez,Sony PlayStation 5,1,500
+14/05/2022,Marta Torres,Xbox Series X,1,550
+15/05/2022,Raquel García,Nintendo Switch,2,400
+17/05/2022,Santiago Fernández,Amazon Echo Dot,3,50
