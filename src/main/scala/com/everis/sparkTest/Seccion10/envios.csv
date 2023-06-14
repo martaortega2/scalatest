@@ -1,0 +1,6 @@
+envio_id,compra_id,fecha_envio,estado
+1,1,2022-01-20,Pendiente
+2,2,2022-02-25,En tránsito
+3,3,2022-03-30,Entregado
+4,4,2022-05-10,Pendiente
+5,5,2022-06-05,Entregado

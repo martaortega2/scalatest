@@ -1,0 +1,27 @@
+"Usuarios": Esquema: id_usuario (int), nombre (string), fecha_registro (string)
+"Ventas": Esquema: id_venta (int), id_usuario (int), fecha_venta (string), monto_total (double)
+"Comentarios": Esquema: id_comentario (int), id_usuario (int), fecha_comentario (string), contenido (string)
+
+1 Calcular el monto total de ventas por usuario.
+
+2 Obtener el usuario que ha realizado el comentario más reciente. (no vale usar orderBy y quedarte con la fecha)
+
+3 Calcular el promedio de montos de ventas por mes.
+
+4 Calcular la suma total de montos de ventas por mes y por usuario.
+
+5 Encontrar el usuario con la venta de mayor monto. (no vale usar orderBy) 
+
+6 Calcular la cantidad de comentarios por usuario.
+
+7 Obtener el mes con la mayor cantidad de comentarios.
+
+8 Calcular la diferencia de días entre la fecha de registro y la fecha de venta para cada usuario.
+
+9 Calcular la cantidad total de ventas por producto.
+
+10 Obtener el producto más vendido.
+
+11 Calcular la suma total de montos de ventas por categoría.
+
+12 Encontrar la categoría con la mayor cantidad de ventas.

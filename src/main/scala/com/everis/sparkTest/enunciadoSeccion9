@@ -1,0 +1,24 @@
+Supongamos que trabajas en una empresa que vende productos de tecnología, y se te ha encomendado la tarea de analizar los datos de ventas de la compañía. Tienes dos archivos CSV:
+
+"ventas.csv": contiene información de ventas realizadas. Cada registro representa la venta de un producto en una determinada fecha y a un determinado cliente. El archivo tiene las siguientes columnas:
+
+fecha: fecha de la venta en formato "dd/MM/yyyy".
+cliente: nombre del cliente que realizó la compra.
+producto: nombre del producto vendido.
+cantidad: cantidad vendida.
+precio_unitario: precio unitario del producto vendido.
+
+"productos.csv": contiene información sobre los productos vendidos. Cada registro representa un producto diferente. El archivo tiene las siguientes columnas:
+
+producto: nombre del producto.
+categoria: categoría del producto.
+descripcion: descripción del producto.
+
+Se te pide que realices las siguientes tareas:
+
+Carga los datos de ambos archivos en dataframes de Spark.
+Calcula el total de ventas por producto y categoría.
+Calcula el promedio de precio unitario por categoría.
+Encuentra el producto más vendido en el mes de mayo de 2022.
+Encuentra el cliente que más dinero gastó en todo el periodo de tiempo registrado.
+Guarda los resultados en un archivo CSV.
